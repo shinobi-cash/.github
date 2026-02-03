@@ -1,26 +1,51 @@
-# 🥷 Shinobi.cash
+# 🥷 Shinobi Cash
 
-**Borderless Privacy for a Multi-Chain World**
+**Cross-chain privacy, built responsibly.**
 
-Shinobi.cash is a **cross-chain privacy protocol** built using the **[Open Intent Framework (OIF)](https://www.openintents.xyz/)** to enable **intent-based private fund transfers** across EVM-compatible chains.
-
-Users can **deposit on one chain** and **withdraw privately on another**, with OIF handling **cross-chain intent validation and settlement** — ensuring every transfer is both **verifiable and unlinkable**.
+Shinobi Cash is a **cross-chain privacy protocol** built on **Privacy Pools** that lets users **deposit on any chain and withdraw privately on any chain** — using a single unified anonymity pool.
 
 ---
 
-## 🌐 Vision
+## What it does
 
-> **“Because privacy shouldn’t stop at chain boundaries.”**
+- **Cross-chain privacy**  
+  Deposit on one chain, withdraw on another
 
-Public blockchains expose every transaction — privacy isn’t built in, it must be engineered.  
-Shinobi.cash builds **borderless privacy** for the multi-chain world, combining **zero-knowledge cryptography** with **intent-based interoperability** to make cross-chain privacy practical and compliant.
+- **Unified anonymity set**  
+  One pool across chains = stronger privacy
+
+- **Compliant by design**  
+  Uses Association Set Providers (ASPs), not surveillance
+
+- **No custom relayers**  
+  Withdrawals use standard ERC-4337 (Account Abstraction) infrastructure
 
 ---
 
-## 🧠 Research Directions
+## Status
 
-- **Private Yield:** Enabling yield on user deposits without compromising privacy.  
-- **Stealth Withdrawals:** Integrating stealth address withdrawals directly via Shinobi.cash app interface.  
-- **Cross-Asset Withdrawals:** Supporting multi-token withdrawals from a single ETH privacy pool.  
+⚠️ **Testnet only. Contracts are unaudited.**  
+Do not deposit real funds.
 
 ---
+
+## Links
+
+- 🧪 App (testnet): https://testnet.shinobi.cash  
+- 📖 Documentation: https://docs.shinobi.cash  
+- 🎥 Demo: https://www.loom.com/share/e1043e3642034282a5ac1f40bbd55239  
+
+---
+
+## Research directions
+
+- Multi Notes withdrawal  
+- Stealth transfers  
+- Cross-asset withdrawals  
+
+---
+
+## Feedback
+
+Shinobi Cash is early and evolving.  
+**Feedback, issues, and reviews are very welcome.**
